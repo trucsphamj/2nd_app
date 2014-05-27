@@ -30,4 +30,4 @@ gem 'rails', '3.0.11'
     gem 'sqlite3', '1.3.9'
     gem 'webrat'
   end
-gem 'pg'
+#gem 'pg'
